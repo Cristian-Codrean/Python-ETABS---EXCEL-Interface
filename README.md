@@ -1,7 +1,7 @@
 # Python-ETABS---EXCEL-Interface
 Aplicatie sub forma unei interfete ce permite utilizatorului schimbul de date dintre ETABS si EXCEL.
 
-Funcționalități :
+Funcționalități:
 Asigura stocarea intr-o baza de date a proprietatilor de tip Frame din ETABS.
 Vizualizarea bazei de date de catre utilizator se face prin intermediul fisierelor EXCEL.
 Asigura schimbul de date dintre fisierele EXCEL si ETABS , astfel incat orice modificare intr-o parte sa se transleze si in cealalta.
